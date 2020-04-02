@@ -1,0 +1,4 @@
+.FlaskEnv
+.env
+__pycache__
+.vscode
