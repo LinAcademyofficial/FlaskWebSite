@@ -3,6 +3,7 @@ Web site rewriting with Micro Framework Flask.
 
 ### Project prerequisites and resources are presented in this section
 DB : MongoDB(Flask-MongoAlchemy)
+
 Templates Engine : Flask-Mako
 
 ### The ultimate goal 
